@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+joblib
+xgboost
+catboost
+torch
+torchvision
+torchaudio
+transformers
+sentencepiece
+datasets
